@@ -6,6 +6,8 @@ import Contacts from './screens/Contacts';
 
 const Tab = createBottomTabNavigator();
 
+
+
 function App(): JSX.Element {
   return (
     <NavigationContainer>
